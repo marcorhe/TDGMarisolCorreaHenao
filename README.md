@@ -11,6 +11,7 @@ Juan David Velasquez (jdvelasq@unal.edu.co)
 ### Descripción: 
 Software para Análisis de cluster automático
 
-### Ubicación;
+### Ubicación:
 En la carpeta **/src** se encuentra el código en jupyter notebook
-y toda la documentación y el trabajo escrito se encuentra en la carpeta **/docs**
+
+En la carpeta **/docs** se encuentra toda la documentación y el trabajo escrito
