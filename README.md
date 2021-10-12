@@ -4,7 +4,7 @@
 Marisol Correa Henao (mcorreah@unal.edu.co)
 
 ### Tutor:
-Juan David Velasquez (jdvelasquez@unal.edu.co)
+Juan David Velasquez (jdvelasq@unal.edu.co)
 
 ### Fecha creación: 
 28/03/2019
